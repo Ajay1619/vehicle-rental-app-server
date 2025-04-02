@@ -1,0 +1,311 @@
+[26-Feb-2025 16:40:19 Asia/Kolkata] PHP Warning:  Undefined array key "type" in E:\xampp\htdocs\vehicle_rental_app\global\api.php on line 5
+[26-Feb-2025 16:45:00 Asia/Kolkata] PHP Warning:  Array to string conversion in E:\xampp\htdocs\vehicle_rental_app\global\api.php on line 3
+[27-Feb-2025 09:51:15 Asia/Kolkata] PHP Warning:  Undefined variable $error in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 19
+[27-Feb-2025 10:32:36 Asia/Kolkata] PHP Warning:  Undefined variable $params_procedures in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 30
+[27-Feb-2025 10:32:36 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_rental_app_login_id" in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 26
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Undefined variable $result in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 33
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 33
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 33
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 33
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Undefined variable $result in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Undefined variable $result in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Undefined variable $result in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 10:33:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\create_customer_account.php on line 71
+[27-Feb-2025 15:36:01 Asia/Kolkata] PHP Warning:  Undefined variable $id in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 13
+[27-Feb-2025 15:37:11 Asia/Kolkata] PHP Warning:  Undefined variable $id in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 13
+[27-Feb-2025 15:39:39 Asia/Kolkata] PHP Warning:  Undefined variable $id in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 13
+[27-Feb-2025 15:39:39 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 19
+[27-Feb-2025 15:39:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 19
+[27-Feb-2025 15:40:23 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 18
+[27-Feb-2025 15:40:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 18
+[27-Feb-2025 15:41:14 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 19
+[27-Feb-2025 15:41:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 19
+[27-Feb-2025 15:41:51 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 21
+[27-Feb-2025 15:41:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\view\view_customer_info.php on line 21
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Undefined array key "contactInfo" in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 15
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 16
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 17
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 18
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 19
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 20
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 21
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 22
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 23
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 24
+[27-Feb-2025 19:26:49 Asia/Kolkata] PHP Warning:  Undefined variable $validation_error in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 29
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Undefined array key "contactInfo" in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 16
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 17
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 18
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 19
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 20
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 21
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 22
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 23
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 24
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 25
+[27-Feb-2025 19:27:47 Asia/Kolkata] PHP Warning:  Undefined variable $validation_error in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 30
+[27-Feb-2025 19:57:38 Asia/Kolkata] PHP Warning:  Undefined variable $validation_error in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_address_info.php on line 30
+[27-Feb-2025 20:13:25 Asia/Kolkata] PHP Warning:  Undefined array key "account_master_key" in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 22
+[27-Feb-2025 20:13:25 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07a0d8153d9.53519617\1000208720,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_logos/\ - BUSINESS_LOGO1000208720-27-02-2025 08 13 25 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:13:25 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 24
+[27-Feb-2025 20:13:25 Asia/Kolkata] PHP Warning:  Undefined array key "account_master_key" in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 30
+[27-Feb-2025 20:13:25 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07a0d83e916.22865782\document:1000158601,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_licenses/\ - BUSINESS_licensedocument:1000158601-27-02-2025 08 13 25 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:13:25 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 32
+[27-Feb-2025 20:23:32 Asia/Kolkata] PHP Warning:  Undefined array key "account_master_key" in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 22
+[27-Feb-2025 20:23:32 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07c6c917629.20496539\1000208720,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_logos/\ - BUSINESS_LOGO1000208720-27-02-2025 08 23 32 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:23:32 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 24
+[27-Feb-2025 20:23:32 Asia/Kolkata] PHP Warning:  Undefined array key "account_master_key" in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 30
+[27-Feb-2025 20:23:32 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07c6c92c893.64619510\document:1000158601,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_licenses/\ - BUSINESS_licensedocument:1000158601-27-02-2025 08 23 32 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:23:32 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 32
+[27-Feb-2025 20:29:47 Asia/Kolkata] PHP Warning:  Undefined array key "account_master_key" in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 22
+[27-Feb-2025 20:29:47 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07de3bf2a24.40961899\1000200457,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_logos/\ - BUSINESS_LOGO1000200457-27-02-2025 08 29 47 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:29:47 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 24
+[27-Feb-2025 20:29:47 Asia/Kolkata] PHP Warning:  Undefined array key "account_master_key" in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 30
+[27-Feb-2025 20:29:47 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07de3c2c689.38851715\document:1000158601,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_licenses/\ - BUSINESS_licensedocument:1000158601-27-02-2025 08 29 47 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:29:47 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 32
+[27-Feb-2025 20:31:56 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07e645ef473.60356311\1000200457,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_logos/\ - BUSINESS_LOGO1000200457-27-02-2025 08 31 56 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:31:56 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 24
+[27-Feb-2025 20:31:56 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07e646005e5.64477128\document:1000158601,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_licenses/\ - BUSINESS_LICENSEdocument:1000158601-27-02-2025 08 31 56 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:31:56 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 32
+[27-Feb-2025 20:34:04 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07ee41aba81.07584949\1000200457,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_logos\ - BUSINESS_LOGO - 1000200457-27-02-2025 08 34 04 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:34:04 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 24
+[27-Feb-2025 20:34:04 Asia/Kolkata] PHP Warning:  rename(C:\WINDOWS\TEMP\upload_67c07ee41bc0b6.98602120\document:1000158601,E:/xampp/htdocs/vehicle_rental_app/uploads/customer_licenses\ - BUSINESS_LICENSE - document:1000158601-27-02-2025 08 34 04 PM.): Access is denied (code: 5) in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 222
+[27-Feb-2025 20:34:04 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\customer_registration\edit\update_customer_business_info.php on line 32
+[28-Feb-2025 10:06:21 Asia/Kolkata] PHP Warning:  Undefined array key "username" in E:\xampp\htdocs\vehicle_rental_app\modules\guest_registration\add\create_guest_account.php on line 17
+[28-Feb-2025 10:06:39 Asia/Kolkata] PHP Warning:  Undefined array key "username" in E:\xampp\htdocs\vehicle_rental_app\modules\guest_registration\add\create_guest_account.php on line 17
+[28-Feb-2025 10:06:46 Asia/Kolkata] PHP Warning:  Undefined array key "username" in E:\xampp\htdocs\vehicle_rental_app\modules\guest_registration\add\create_guest_account.php on line 17
+[28-Feb-2025 10:13:45 Asia/Kolkata] PHP Warning:  Undefined array key "guestName" in E:\xampp\htdocs\vehicle_rental_app\modules\guest_registration\edit\update_guest_personal_info.php on line 16
+[28-Feb-2025 10:13:45 Asia/Kolkata] PHP Warning:  Undefined array key "guestMobileNumber" in E:\xampp\htdocs\vehicle_rental_app\modules\guest_registration\edit\update_guest_personal_info.php on line 17
+[28-Feb-2025 10:13:45 Asia/Kolkata] PHP Warning:  Undefined array key "guestEmailId" in E:\xampp\htdocs\vehicle_rental_app\modules\guest_registration\edit\update_guest_personal_info.php on line 18
+[28-Feb-2025 10:14:19 Asia/Kolkata] PHP Warning:  Undefined array key "guestName" in E:\xampp\htdocs\vehicle_rental_app\modules\guest_registration\edit\update_guest_personal_info.php on line 17
+[28-Feb-2025 10:14:20 Asia/Kolkata] PHP Warning:  Undefined array key "guestMobileNumber" in E:\xampp\htdocs\vehicle_rental_app\modules\guest_registration\edit\update_guest_personal_info.php on line 18
+[28-Feb-2025 10:14:20 Asia/Kolkata] PHP Warning:  Undefined array key "guestEmailId" in E:\xampp\htdocs\vehicle_rental_app\modules\guest_registration\edit\update_guest_personal_info.php on line 19
+[28-Feb-2025 14:03:33 Asia/Kolkata] PHP Warning:  Undefined variable $params_procedures in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 21
+[28-Feb-2025 14:03:33 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_rental_app_login_id" in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 26
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Undefined variable $check_username_existence_response in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 23
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 23
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 23
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 23
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Undefined variable $check_username_existence_response in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Undefined variable $check_username_existence_response in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Undefined variable $check_username_existence_response in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 14:05:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 36
+[28-Feb-2025 16:01:16 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 46
+[28-Feb-2025 16:01:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 46
+[28-Feb-2025 16:01:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 46
+[28-Feb-2025 16:01:16 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:01:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:01:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:01:16 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:01:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:01:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:27:24 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 50
+[28-Feb-2025 16:27:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 50
+[28-Feb-2025 16:27:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 52
+[28-Feb-2025 16:27:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 55
+[28-Feb-2025 16:27:24 Asia/Kolkata] PHP Warning:  Undefined variable $image_url in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 56
+[28-Feb-2025 16:27:47 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 51
+[28-Feb-2025 16:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 51
+[28-Feb-2025 16:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 53
+[28-Feb-2025 16:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 56
+[28-Feb-2025 16:27:47 Asia/Kolkata] PHP Warning:  Undefined variable $image_url in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:28:57 Asia/Kolkata] PHP Warning:  Undefined variable $image_url in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:31:15 Asia/Kolkata] PHP Warning:  Undefined variable $image_url in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:34:16 Asia/Kolkata] PHP Warning:  Undefined variable $image_url in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[28-Feb-2025 16:36:49 Asia/Kolkata] PHP Warning:  Undefined variable $image_url in E:\xampp\htdocs\vehicle_rental_app\modules\login\index.php on line 57
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 72
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 72
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 72
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 76
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 76
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 76
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 76
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 76
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 76
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 76
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 76
+[06-Mar-2025 10:21:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 76
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 72
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 72
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 72
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 74
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 74
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 74
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 74
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 74
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 74
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 74
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 74
+[06-Mar-2025 10:22:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 74
+[06-Mar-2025 10:26:59 Asia/Kolkata] PHP Warning:  Undefined variable $vehicleId in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 79
+[06-Mar-2025 14:00:12 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 38
+[06-Mar-2025 14:00:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 38
+[06-Mar-2025 14:00:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 38
+[06-Mar-2025 14:01:54 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 38
+[06-Mar-2025 14:01:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 38
+[06-Mar-2025 14:01:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 38
+[07-Mar-2025 10:49:39 Asia/Kolkata] PHP Warning:  Undefined variable $input in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 11
+[07-Mar-2025 10:53:44 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 20
+[07-Mar-2025 10:53:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 20
+[07-Mar-2025 10:53:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 20
+[07-Mar-2025 10:53:44 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 10:53:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 10:53:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 10:53:44 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 10:53:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 10:53:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:51 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 20
+[07-Mar-2025 11:01:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 20
+[07-Mar-2025 11:01:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 20
+[07-Mar-2025 11:01:51 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:51 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:52 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 20
+[07-Mar-2025 11:01:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 20
+[07-Mar-2025 11:01:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 20
+[07-Mar-2025 11:01:52 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:52 Asia/Kolkata] PHP Warning:  Undefined array key "particulars" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[07-Mar-2025 11:01:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_vehicles_info.php on line 42
+[08-Mar-2025 12:52:44 Asia/Kolkata] PHP Warning:  Undefined array key 3 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 24
+[08-Mar-2025 12:52:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 24
+[10-Mar-2025 11:39:39 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 21
+[10-Mar-2025 11:39:39 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 11:39:43 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 21
+[10-Mar-2025 11:39:43 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 11:39:53 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 21
+[10-Mar-2025 11:39:53 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 11:55:26 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 11:58:43 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 21
+[10-Mar-2025 11:58:43 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 12:25:39 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 12:46:25 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 12:46:27 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 12:46:31 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 15:08:37 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 15:17:56 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 15:17:57 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 15:26:19 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[10-Mar-2025 15:33:48 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[11-Mar-2025 10:35:21 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 22
+[11-Mar-2025 11:02:30 Asia/Kolkata] PHP Warning:  Undefined variable $response in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 21
+[11-Mar-2025 11:02:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 21
+[11-Mar-2025 11:02:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 21
+[11-Mar-2025 11:02:30 Asia/Kolkata] PHP Warning:  Undefined array key "images" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 32
+[11-Mar-2025 11:02:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 32
+[11-Mar-2025 11:02:30 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 32
+[11-Mar-2025 11:03:10 Asia/Kolkata] PHP Warning:  Undefined variable $response in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 21
+[11-Mar-2025 11:03:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 21
+[11-Mar-2025 11:03:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 21
+[11-Mar-2025 11:03:10 Asia/Kolkata] PHP Warning:  Undefined array key "images" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 32
+[11-Mar-2025 11:03:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 32
+[11-Mar-2025 11:03:10 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 32
+[11-Mar-2025 11:12:25 Asia/Kolkata] PHP Warning:  Undefined variable $response in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 22
+[11-Mar-2025 11:12:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 22
+[11-Mar-2025 11:12:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 22
+[11-Mar-2025 11:12:25 Asia/Kolkata] PHP Warning:  Undefined array key "images" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:12:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:12:25 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:12:55 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 22
+[11-Mar-2025 11:12:55 Asia/Kolkata] PHP Warning:  Undefined array key "images" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:12:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:12:55 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:14:24 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 22
+[11-Mar-2025 11:14:24 Asia/Kolkata] PHP Warning:  Undefined array key "images" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:14:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:14:24 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:20:40 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 22
+[11-Mar-2025 11:20:40 Asia/Kolkata] PHP Warning:  Undefined array key "images" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:20:40 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:20:40 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:35:57 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 22
+[11-Mar-2025 11:35:57 Asia/Kolkata] PHP Warning:  Undefined array key "images" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:35:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 11:35:57 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 12:24:17 Asia/Kolkata] PHP Warning:  Undefined array key "images" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 12:24:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 12:24:17 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 33
+[11-Mar-2025 12:25:05 Asia/Kolkata] PHP Warning:  Undefined array key "images" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 35
+[11-Mar-2025 12:25:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 35
+[11-Mar-2025 12:25:05 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 35
+[12-Mar-2025 10:04:13 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 21
+[12-Mar-2025 10:22:55 Asia/Kolkata] PHP Warning:  Undefined variable $file in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:22:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:22:55 Asia/Kolkata] PHP Warning:  Undefined variable $file in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:22:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:22:55 Asia/Kolkata] PHP Warning:  Undefined variable $file in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:22:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:24:29 Asia/Kolkata] PHP Warning:  Undefined variable $file in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:24:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:24:29 Asia/Kolkata] PHP Warning:  Undefined variable $file in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:24:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:24:29 Asia/Kolkata] PHP Warning:  Undefined variable $file in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 10:24:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 50
+[12-Mar-2025 12:22:31 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 23
+[12-Mar-2025 12:33:23 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 23
+[12-Mar-2025 12:33:37 Asia/Kolkata] PHP Warning:  Undefined array key 2 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\view\view_customer_individual_vehicle_info.php on line 23
+[13-Mar-2025 11:39:09 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 31
+[13-Mar-2025 11:39:09 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 31
+[13-Mar-2025 11:45:33 Asia/Kolkata] PHP Warning:  Undefined variable $file in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 48
+[13-Mar-2025 11:45:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 194
+[13-Mar-2025 11:45:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 199
+[13-Mar-2025 11:45:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 200
+[13-Mar-2025 11:45:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\config\globalFunctions.php on line 201
+[13-Mar-2025 11:45:33 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 50
+[13-Mar-2025 12:10:59 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 12:12:56 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 24
+[13-Mar-2025 14:08:49 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 32
+[13-Mar-2025 14:09:19 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 32
+[13-Mar-2025 14:11:12 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 30
+[13-Mar-2025 14:11:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 30
+[13-Mar-2025 14:15:59 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 33
+[13-Mar-2025 14:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 32
+[13-Mar-2025 14:16:52 Asia/Kolkata] PHP Warning:  Undefined array key "rc_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 32
+[13-Mar-2025 14:16:52 Asia/Kolkata] PHP Warning:  Undefined array key "rc_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 32
+[13-Mar-2025 14:16:52 Asia/Kolkata] PHP Warning:  Undefined array key "rc_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 32
+[13-Mar-2025 14:16:52 Asia/Kolkata] PHP Warning:  Undefined array key "rc_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 32
+[13-Mar-2025 14:17:46 Asia/Kolkata] PHP Warning:  Undefined array key "rc_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 31
+[13-Mar-2025 14:18:39 Asia/Kolkata] PHP Warning:  Undefined array key "rc_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 32
+[13-Mar-2025 14:20:18 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 14:20:18 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 15:12:01 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 15:13:21 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 24
+[13-Mar-2025 15:15:01 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 15:15:01 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle_image_path" in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 16:06:21 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 31
+[13-Mar-2025 16:06:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 31
+[13-Mar-2025 16:06:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 31
+[13-Mar-2025 16:08:11 Asia/Kolkata] PHP Parse error:  Unmatched '}' in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 96
+[13-Mar-2025 16:08:35 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 33
+[13-Mar-2025 16:08:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 33
+[13-Mar-2025 16:08:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 33
+[13-Mar-2025 16:09:10 Asia/Kolkata] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 33
+[13-Mar-2025 16:09:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 33
+[13-Mar-2025 16:09:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_basic_info.php on line 33
+[13-Mar-2025 16:13:36 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 16:13:36 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 16:16:19 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 16:16:19 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 16:16:37 Asia/Kolkata] PHP Warning:  Undefined array key 1 in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23
+[13-Mar-2025 16:16:37 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in E:\xampp\htdocs\vehicle_rental_app\modules\vehicles\add\create_customer_vehicle_images_info.php on line 23

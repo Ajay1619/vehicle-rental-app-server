@@ -1,0 +1,12 @@
+RewriteEngine On
+
+
+RewriteRule ^login/?$ modules/login/index.php [L]
+
+RewriteRule ^customer-registration/?$ modules/customer_registration/index.php [L]
+
+RewriteRule ^guest-registration/?$ modules/guest_registration/index.php [L]
+
+RewriteRule ^vehicles/?$ modules/vehicles/index.php [L]
+
+RewriteRule ^log-error/?$ global/action/index.php [L]
